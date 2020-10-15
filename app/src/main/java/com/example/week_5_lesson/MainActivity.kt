@@ -1,5 +1,5 @@
 package com.example.week_5_lesson
-// this is my second commitment
+// creating and pushing in different branches
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
