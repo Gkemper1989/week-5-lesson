@@ -1,4 +1,5 @@
 package com.example.week_5_lesson
+// this is my second commitment
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
